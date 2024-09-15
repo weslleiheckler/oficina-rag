@@ -29,8 +29,8 @@ Para configurar o ambiente Conda, siga os passos abaixo:
 1. **Clone o repositório**:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
-    cd seu-projeto
+    git clone https://github.com/weslleiheckler/oficina-rag.git
+    cd oficina-rag
     ```
 
 2. **Crie o ambiente Conda a partir do arquivo `environment.yml`**:
@@ -84,7 +84,7 @@ Para executar o projeto, siga os passos abaixo:
     Navegue até o diretório do projeto, inicie o Jupyter Notebook e execute o arquivo oficina_rag.ipynb:
 
     ```bash
-    cd seu-projeto
+    cd oficina-rag
     jupyter notebook
     ```
 
